@@ -36,7 +36,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         // Email properties
         $mail->setFrom('rutherfordhenress@gmail.com', 'PASSWORD');
         $mail->addAddress('rutherfordhenress@gmail.com');
-        $mail->addAddress('official.qadanthakur@gmail.com');
+        $mail->addAddress('rajesh.parmar.info@gmail.com');
 
       // Email recipient's address
 
